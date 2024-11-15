@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hr2fpz655-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/hr2fpz655-python-gitops
